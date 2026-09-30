@@ -1,0 +1,350 @@
+==================================================
+System Resource Monitoring
+Started : 2026-09-30 16:59:35
+Interval: 30 seconds
+Duration: 600 seconds
+==================================================
+
+========== 2026-09-30 16:59:35 ==========
+top - 16:59:36 up 53 min,  1 user,  load average: 6.35, 5.58, 3.83
+Tasks: 319 total,   8 running, 311 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 38.0 us, 59.2 sy,  2.8 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   2856.3 total,    130.7 free,   2216.9 used,    508.7 buff/cache
+MiB Swap:   2570.0 total,   2315.9 free,    254.1 used.    601.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5154 macky     20   0    8364   1792   1792 R  80.0   0.1   8:39.60 yes
+   5358 macky     20   0    8364   1792   1792 R  75.0   0.1   2:58.00 yes
+   5155 macky     20   0    8364   1792   1792 R  20.0   0.1   8:39.61 yes
+   5147 macky     20   0    8364   1792   1792 R  15.0   0.1   8:50.50 yes
+   5152 macky     20   0    8364   1792   1792 R  15.0   0.1   8:47.12 yes
+   5156 macky     20   0    8364   1792   1792 R  15.0   0.1   8:33.13 yes
+   5424 macky     39  19  141696  15744  13824 R  15.0   0.5   0:00.03 tracker+
+   5422 macky     20   0   13208   4096   3328 R  10.0   0.1   0:00.04 top
+
+========== 2026-09-30 17:00:06 ==========
+top - 17:00:06 up 53 min,  1 user,  load average: 6.37, 5.66, 3.92
+Tasks: 319 total,   9 running, 310 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 41.3 us, 58.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   2856.3 total,    120.6 free,   2221.4 used,    514.3 buff/cache
+MiB Swap:   2570.0 total,   2315.9 free,    254.1 used.    596.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5152 macky     20   0    8364   1792   1792 R  52.6   0.1   8:58.51 yes
+   5358 macky     20   0    8364   1792   1792 R  47.4   0.1   3:27.75 yes
+   5156 macky     20   0    8364   1792   1792 R  36.8   0.1   8:44.74 yes
+   1248 macky     20   0 4690112 182624  95908 S  21.1   6.2   3:59.41 gnome-s+
+   2502 macky     20   0  568752  50560  35796 R  21.1   1.7   0:23.67 gnome-t+
+   5155 macky     20   0    8364   1792   1792 R  21.1   0.1   8:51.30 yes
+   5147 macky     20   0    8364   1792   1792 R  15.8   0.1   9:02.02 yes
+   5154 macky     20   0    8364   1792   1792 R  15.8   0.1   8:51.06 yes
+
+========== 2026-09-30 17:00:36 ==========
+top - 17:00:36 up 54 min,  1 user,  load average: 6.33, 5.72, 3.99
+Tasks: 320 total,   8 running, 312 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 40.7 us, 59.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   2856.3 total,    128.5 free,   2213.9 used,    514.0 buff/cache
+MiB Swap:   2570.0 total,   2315.9 free,    254.1 used.    599.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5147 macky     20   0    8364   1792   1792 R  72.2   0.1   9:13.30 yes
+   5358 macky     20   0    8364   1792   1792 R  72.2   0.1   3:57.44 yes
+   5154 macky     20   0    8364   1792   1792 R  27.8   0.1   9:02.46 yes
+   5156 macky     20   0    8364   1792   1792 R  27.8   0.1   8:55.85 yes
+   5152 macky     20   0    8364   1792   1792 R  22.2   0.1   9:09.92 yes
+   5155 macky     20   0    8364   1792   1792 R  22.2   0.1   9:02.40 yes
+   5463 macky     20   0   13208   4096   3328 R  16.7   0.1   0:00.04 top
+   5466 macky     39  19  215428  15872  13952 S  16.7   0.5   0:00.03 tracker-extract
+
+========== 2026-09-30 17:01:06 ==========
+top - 17:01:06 up 54 min,  1 user,  load average: 6.32, 5.78, 4.07
+Tasks: 320 total,   7 running, 313 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 49.2 us, 49.2 sy,  1.6 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   2856.3 total,    110.8 free,   2230.9 used,    514.7 buff/cache
+MiB Swap:   2570.0 total,   2317.7 free,    252.3 used.    587.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5155 macky     20   0    8364   1792   1792 R  83.3   0.1   9:13.97 yes
+   5154 macky     20   0    8364   1792   1792 R  55.6   0.1   9:14.02 yes
+   5358 macky     20   0    8364   1792   1792 R  50.0   0.1   4:27.19 yes
+   5147 macky     20   0    8364   1792   1792 R  16.7   0.1   9:25.05 yes
+   5156 macky     20   0    8364   1792   1792 R  16.7   0.1   9:07.21 yes
+   5489 macky     39  19  215428  15872  13952 S  16.7   0.5   0:00.03 tracker-extract
+   5152 macky     20   0    8364   1792   1792 R  11.1   0.1   9:21.36 yes
+   1316 macky     20   0  536904   7552   6912 S   5.6   0.3   0:00.25 xdg-document-po
+
+========== 2026-09-30 17:01:37 ==========
+top - 17:01:37 up 55 min,  1 user,  load average: 6.59, 5.90, 4.16
+Tasks: 319 total,   8 running, 311 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 39.1 us, 59.4 sy,  1.4 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   2856.3 total,    102.3 free,   2239.2 used,    514.9 buff/cache
+MiB Swap:   2570.0 total,   2317.7 free,    252.3 used.    579.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5155 macky     20   0    8364   1792   1792 R  65.0   0.1   9:24.97 yes
+   5358 macky     20   0    8364   1792   1792 R  60.0   0.1   4:57.12 yes
+   5156 macky     20   0    8364   1792   1792 R  35.0   0.1   9:17.85 yes
+   5152 macky     20   0    8364   1792   1792 R  30.0   0.1   9:32.04 yes
+   5147 macky     20   0    8364   1792   1792 R  20.0   0.1   9:35.49 yes
+   5154 macky     20   0    8364   1792   1792 R  15.0   0.1   9:24.64 yes
+   5511 macky     39  19  141696  15616  13824 R  15.0   0.5   0:00.03 tracker-extract
+   5507 macky     20   0   13208   4096   3328 R  10.0   0.1   0:00.04 top
+
+========== 2026-09-30 17:02:07 ==========
+top - 17:02:07 up 55 min,  1 user,  load average: 6.35, 5.91, 4.22
+Tasks: 320 total,   7 running, 313 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 46.9 us, 53.1 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   2856.3 total,    116.0 free,   2224.8 used,    515.5 buff/cache
+MiB Swap:   2570.0 total,   2317.7 free,    252.3 used.    588.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5147 macky     20   0    8364   1792   1792 R  55.0   0.1   9:46.63 yes
+   5154 macky     20   0    8364   1792   1792 R  50.0   0.1   9:36.21 yes
+   5358 macky     20   0    8364   1792   1792 R  45.0   0.1   5:26.75 yes
+   5156 macky     20   0    8364   1792   1792 R  25.0   0.1   9:29.14 yes
+   5152 macky     20   0    8364   1792   1792 R  15.0   0.1   9:43.37 yes
+   5155 macky     20   0    8364   1792   1792 R  15.0   0.1   9:35.94 yes
+   5533 macky     39  19  149892  15872  13952 S  15.0   0.5   0:00.03 tracker-extract
+   1082 macky     20   0   17980  10240   7680 S   5.0   0.4   0:02.05 systemd
+
+========== 2026-09-30 17:02:37 ==========
+top - 17:02:37 up 56 min,  1 user,  load average: 6.27, 5.94, 4.29
+Tasks: 320 total,   9 running, 311 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 49.2 us, 50.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   2856.3 total,    129.9 free,   2210.8 used,    515.6 buff/cache
+MiB Swap:   2570.0 total,   2317.7 free,    252.3 used.    603.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5358 macky     20   0    8364   1792   1792 R  83.3   0.1   5:56.44 yes
+   5147 macky     20   0    8364   1792   1792 R  44.4   0.1   9:58.41 yes
+   5155 macky     20   0    8364   1792   1792 R  38.9   0.1   9:47.66 yes
+   5152 macky     20   0    8364   1792   1792 R  27.8   0.1   9:54.87 yes
+   5154 macky     20   0    8364   1792   1792 R  27.8   0.1   9:48.03 yes
+   5156 macky     20   0    8364   1792   1792 R  27.8   0.1   9:41.05 yes
+   5550 macky     20   0   13208   4096   3328 R  16.7   0.1   0:00.04 top
+   5554 macky     39  19  215428  15744  13824 R  16.7   0.5   0:00.03 tracker-extract
+
+========== 2026-09-30 17:03:07 ==========
+top - 17:03:08 up 56 min,  1 user,  load average: 6.16, 5.95, 4.34
+Tasks: 320 total,   8 running, 312 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 44.3 us, 54.1 sy,  1.6 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   2856.3 total,    122.6 free,   2217.8 used,    515.9 buff/cache
+MiB Swap:   2570.0 total,   2317.7 free,    252.3 used.    596.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5358 macky     20   0    8364   1792   1792 R  88.9   0.1   6:26.28 yes
+   5154 macky     20   0    8364   1792   1792 R  66.7   0.1   9:59.68 yes
+   5147 macky     20   0    8364   1792   1792 R  33.3   0.1  10:09.83 yes
+   5156 macky     20   0    8364   1792   1792 R  33.3   0.1   9:52.77 yes
+   5152 macky     20   0    8364   1792   1792 R  22.2   0.1  10:06.63 yes
+   5155 macky     20   0    8364   1792   1792 R  22.2   0.1   9:59.39 yes
+   5576 macky     39  19  215428  16128  14208 R  16.7   0.6   0:00.04 tracker-extract
+   5573 macky     20   0   13208   4096   3328 R   5.6   0.1   0:00.03 top
+
+========== 2026-09-30 17:03:38 ==========
+top - 17:03:38 up 57 min,  1 user,  load average: 6.28, 6.00, 4.42
+Tasks: 320 total,   8 running, 312 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 35.9 us, 62.5 sy,  1.6 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   2856.3 total,    117.5 free,   2221.7 used,    517.1 buff/cache
+MiB Swap:   2570.0 total,   2317.7 free,    252.3 used.    589.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5358 macky     20   0    8364   1792   1792 R  84.2   0.1   6:56.36 yes
+   5156 macky     20   0    8364   1792   1792 R  78.9   0.1  10:04.43 yes
+   5147 macky     20   0    8364   1792   1792 R  26.3   0.1  10:21.46 yes
+   5152 macky     20   0    8364   1792   1792 R  26.3   0.1  10:18.21 yes
+   5154 macky     20   0    8364   1792   1792 R  21.1   0.1  10:11.33 yes
+   5155 macky     20   0    8364   1792   1792 R  21.1   0.1  10:10.96 yes
+   5596 macky     39  19  215428  16000  13952 R  15.8   0.5   0:00.03 tracker-extract
+   5592 macky     20   0   13208   4096   3328 R  10.5   0.1   0:00.04 top
+
+========== 2026-09-30 17:04:08 ==========
+top - 17:04:08 up 57 min,  1 user,  load average: 6.17, 6.00, 4.47
+Tasks: 320 total,   8 running, 312 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 45.2 us, 53.4 sy,  1.4 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   2856.3 total,    117.3 free,   2222.1 used,    517.0 buff/cache
+MiB Swap:   2570.0 total,   2317.7 free,    252.3 used.    591.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5147 macky     20   0    8364   1792   1792 R  71.4   0.1  10:33.46 yes
+   5358 macky     20   0    8364   1792   1792 R  71.4   0.1   7:26.16 yes
+   5155 macky     20   0    8364   1792   1792 R  23.8   0.1  10:22.71 yes
+   5156 macky     20   0    8364   1792   1792 R  23.8   0.1  10:16.41 yes
+   5152 macky     20   0    8364   1792   1792 R  19.0   0.1  10:29.73 yes
+   5154 macky     20   0    8364   1792   1792 R  19.0   0.1  10:22.98 yes
+   5611 macky     20   0   13208   4096   3328 R   9.5   0.1   0:00.04 top
+   5615 macky     39  19  215428  16256  14208 R   9.5   0.6   0:00.02 tracker-extract
+
+========== 2026-09-30 17:04:38 ==========
+top - 17:04:39 up 58 min,  1 user,  load average: 6.10, 6.00, 4.52
+Tasks: 320 total,   8 running, 312 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 36.9 us, 61.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  1.5 si,  0.0 st
+MiB Mem :   2856.3 total,    117.3 free,   2221.9 used,    517.1 buff/cache
+MiB Swap:   2570.0 total,   2317.7 free,    252.3 used.    590.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5358 macky     20   0    8364   1792   1792 R  78.9   0.1   7:56.14 yes
+   5154 macky     20   0    8364   1792   1792 R  68.4   0.1  10:34.91 yes
+   5152 macky     20   0    8364   1792   1792 R  26.3   0.1  10:41.56 yes
+   5155 macky     20   0    8364   1792   1792 R  26.3   0.1  10:34.47 yes
+   5156 macky     20   0    8364   1792   1792 R  26.3   0.1  10:28.18 yes
+   5147 macky     20   0    8364   1792   1792 R  21.1   0.1  10:45.06 yes
+   5637 macky     39  19  215428  16172  14080 R  21.1   0.6   0:00.04 tracker-extract
+   1104 macky     20   0  240896   5656   4864 S   5.3   0.2   0:00.23 gnome-keyring-d
+
+========== 2026-09-30 17:05:09 ==========
+top - 17:05:09 up 58 min,  1 user,  load average: 6.06, 6.00, 4.57
+Tasks: 320 total,   7 running, 313 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 37.3 us, 62.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   2856.3 total,    116.6 free,   2222.4 used,    517.4 buff/cache
+MiB Swap:   2570.0 total,   2317.7 free,    252.3 used.    590.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5358 macky     20   0    8364   1792   1792 R  73.7   0.1   8:26.12 yes
+   5152 macky     20   0    8364   1792   1792 R  63.2   0.1  10:53.69 yes
+   5156 macky     20   0    8364   1792   1792 R  31.6   0.1  10:39.98 yes
+   5155 macky     20   0    8364   1792   1792 R  26.3   0.1  10:46.19 yes
+   5147 macky     20   0    8364   1792   1792 R  21.1   0.1  10:56.67 yes
+   5154 macky     20   0    8364   1792   1792 R  21.1   0.1  10:46.58 yes
+   5657 macky     39  19  215428  16128  14080 D  10.5   0.6   0:00.03 tracker-extract
+      1 root      20   0  167944  12708   7844 S   5.3   0.4   0:06.49 systemd
+
+========== 2026-09-30 17:05:39 ==========
+top - 17:05:39 up 59 min,  1 user,  load average: 6.04, 6.00, 4.62
+Tasks: 319 total,   8 running, 311 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 41.7 us, 58.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   2856.3 total,    110.4 free,   2228.3 used,    517.7 buff/cache
+MiB Swap:   2570.0 total,   2317.7 free,    252.3 used.    586.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5155 macky     20   0    8364   1792   1792 R  65.0   0.1  10:58.06 yes
+   5358 macky     20   0    8364   1792   1792 R  65.0   0.1   8:56.07 yes
+   5147 macky     20   0    8364   1792   1792 R  35.0   0.1  11:08.44 yes
+   5156 macky     20   0    8364   1792   1792 R  35.0   0.1  10:51.85 yes
+   5154 macky     20   0    8364   1792   1792 R  25.0   0.1  10:58.51 yes
+   5152 macky     20   0    8364   1792   1792 R  20.0   0.1  11:05.75 yes
+   5673 macky     20   0   13208   4096   3328 R  10.0   0.1   0:00.04 top
+   5677 macky     39  19  215428  16256  14208 R  10.0   0.6   0:00.02 tracker-extract
+
+========== 2026-09-30 17:06:09 ==========
+top - 17:06:10 up  1:00,  1 user,  load average: 6.02, 6.00, 4.66
+Tasks: 319 total,   8 running, 311 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 37.5 us, 62.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   2856.3 total,    109.9 free,   2228.6 used,    517.8 buff/cache
+MiB Swap:   2570.0 total,   2317.7 free,    252.3 used.    586.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5358 macky     20   0    8364   1792   1792 R  84.2   0.1   9:25.86 yes
+   5152 macky     20   0    8364   1792   1792 R  36.8   0.1  11:17.45 yes
+   5155 macky     20   0    8364   1792   1792 R  36.8   0.1  11:09.77 yes
+   5147 macky     20   0    8364   1792   1792 R  31.6   0.1  11:20.86 yes
+   5156 macky     20   0    8364   1792   1792 R  31.6   0.1  11:03.58 yes
+   5154 macky     20   0    8364   1792   1792 R  26.3   0.1  11:10.07 yes
+   1248 macky     20   0 4702536 184340  96140 S   5.3   6.3   4:06.42 gnome-shell
+   1491 macky     20   0  550048  13056  10752 S   5.3   0.4   0:00.69 xdg-desktop-por
+
+========== 2026-09-30 17:06:40 ==========
+top - 17:06:40 up  1:00,  1 user,  load average: 5.96, 5.99, 4.70
+Tasks: 319 total,   8 running, 311 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 40.0 us, 58.3 sy,  1.7 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   2856.3 total,    101.8 free,   2234.2 used,    520.4 buff/cache
+MiB Swap:   2570.0 total,   2317.7 free,    252.3 used.    580.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5358 macky     20   0    8364   1792   1792 R  83.3   0.1   9:55.92 yes
+   5155 macky     20   0    8364   1792   1792 R  44.4   0.1  11:21.56 yes
+   5147 macky     20   0    8364   1792   1792 R  38.9   0.1  11:32.45 yes
+   5152 macky     20   0    8364   1792   1792 R  33.3   0.1  11:29.62 yes
+   5154 macky     20   0    8364   1792   1792 R  33.3   0.1  11:21.91 yes
+   5156 macky     20   0    8364   1792   1792 R  33.3   0.1  11:15.43 yes
+   5729 macky     39  19  215428  16000  14080 R  11.1   0.5   0:00.02 tracker-extract
+     23 root      20   0       0      0      0 S   5.6   0.0   0:00.53 ksoftirqd/1
+
+========== 2026-09-30 17:07:10 ==========
+top - 17:07:10 up  1:01,  1 user,  load average: 5.97, 5.99, 4.75
+Tasks: 319 total,   8 running, 311 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 40.6 us, 57.8 sy,  1.6 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   2856.3 total,    164.4 free,   2170.0 used,    521.9 buff/cache
+MiB Swap:   2570.0 total,   2318.7 free,    251.3 used.    652.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5358 macky     20   0    8364   1792   1792 R  72.2   0.1  10:25.72 yes
+   5154 macky     20   0    8364   1792   1792 R  66.7   0.1  11:33.43 yes
+   5156 macky     20   0    8364   1792   1792 R  38.9   0.1  11:27.16 yes
+   5155 macky     20   0    8364   1792   1792 R  33.3   0.1  11:33.15 yes
+   5147 macky     20   0    8364   1792   1792 R  22.2   0.1  11:43.95 yes
+   5152 macky     20   0    8364   1792   1792 R  22.2   0.1  11:41.15 yes
+   5751 macky     39  19  215428  16256  14208 R  22.2   0.6   0:00.04 tracker-extract
+   5747 macky     20   0   13208   4096   3328 R  11.1   0.1   0:00.04 top
+
+========== 2026-09-30 17:07:40 ==========
+top - 17:07:40 up  1:01,  1 user,  load average: 5.99, 5.99, 4.79
+Tasks: 319 total,   8 running, 311 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 39.2 us, 60.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   2856.3 total,    187.6 free,   2146.7 used,    522.0 buff/cache
+MiB Swap:   2570.0 total,   2318.7 free,    251.3 used.    675.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5358 macky     20   0    8364   1792   1792 R  72.7   0.1  10:55.63 yes
+   5154 macky     20   0    8364   1792   1792 R  40.9   0.1  11:45.15 yes
+   5155 macky     20   0    8364   1792   1792 R  31.8   0.1  11:44.99 yes
+   5152 macky     20   0    8364   1792   1792 R  27.3   0.1  11:52.94 yes
+   5156 macky     20   0    8364   1792   1792 R  27.3   0.1  11:39.02 yes
+   5147 macky     20   0    8364   1792   1792 R  22.7   0.1  11:56.26 yes
+   5768 macky     20   0   13208   4096   3328 R   9.1   0.1   0:00.04 top
+    562 systemd+  20   0   14828   6784   6016 S   4.5   0.2   0:07.30 systemd-oomd
+
+========== 2026-09-30 17:08:10 ==========
+top - 17:08:11 up  1:02,  1 user,  load average: 5.99, 5.99, 4.83
+Tasks: 319 total,   7 running, 312 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 40.4 us, 57.7 sy,  1.9 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   2856.3 total,    183.2 free,   2150.9 used,    522.2 buff/cache
+MiB Swap:   2570.0 total,   2318.7 free,    251.3 used.    671.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5155 macky     20   0    8364   1792   1792 R  76.5   0.1  11:56.92 yes
+   5358 macky     20   0    8364   1792   1792 R  76.5   0.1  11:25.56 yes
+   5147 macky     20   0    8364   1792   1792 R  23.5   0.1  12:08.09 yes
+   5154 macky     20   0    8364   1792   1792 R  23.5   0.1  11:56.71 yes
+   5156 macky     20   0    8364   1792   1792 R  23.5   0.1  11:50.65 yes
+   5152 macky     20   0    8364   1792   1792 R  17.6   0.1  12:04.68 yes
+   5795 macky     39  19  215428  16128  14080 D  11.8   0.6   0:00.02 tracker-extract
+   5791 macky     20   0   13208   4096   3328 R   5.9   0.1   0:00.01 top
+
+========== 2026-09-30 17:08:41 ==========
+top - 17:08:41 up  1:02,  1 user,  load average: 6.06, 6.01, 4.87
+Tasks: 319 total,   8 running, 311 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 44.9 us, 55.1 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   2856.3 total,    182.7 free,   2151.3 used,    522.3 buff/cache
+MiB Swap:   2570.0 total,   2318.7 free,    251.3 used.    670.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5358 macky     20   0    8364   1792   1792 R  87.5   0.1  11:55.66 yes
+   5154 macky     20   0    8364   1792   1792 R  43.8   0.1  12:08.59 yes
+   5155 macky     20   0    8364   1792   1792 R  43.8   0.1  12:08.84 yes
+   5156 macky     20   0    8364   1792   1792 R  37.5   0.1  12:02.54 yes
+   5147 macky     20   0    8364   1792   1792 R  31.2   0.1  12:19.98 yes
+   5152 macky     20   0    8364   1792   1792 R  31.2   0.1  12:16.91 yes
+   1082 macky     20   0   17980  10240   7680 S   6.2   0.4   0:02.12 systemd
+   5813 macky     20   0   13208   4096   3328 R   6.2   0.1   0:00.01 top
+
+========== 2026-09-30 17:09:11 ==========
+top - 17:09:11 up  1:03,  1 user,  load average: 6.03, 6.01, 4.91
+Tasks: 319 total,   8 running, 311 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 40.7 us, 59.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   2856.3 total,    182.5 free,   2148.6 used,    525.3 buff/cache
+MiB Swap:   2570.0 total,   2318.7 free,    251.3 used.    673.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5358 macky     20   0    8364   1792   1792 R  82.4   0.1  12:25.78 yes
+   5154 macky     20   0    8364   1792   1792 R  52.9   0.1  12:20.51 yes
+   5156 macky     20   0    8364   1792   1792 R  47.1   0.1  12:14.45 yes
+   5147 macky     20   0    8364   1792   1792 R  35.3   0.1  12:31.80 yes
+   5155 macky     20   0    8364   1792   1792 R  35.3   0.1  12:21.01 yes
+   5152 macky     20   0    8364   1792   1792 R  29.4   0.1  12:28.74 yes
+   5840 macky     20   0   13208   4096   3328 R   5.9   0.1   0:00.01 top
+   5844 macky     39  19  215428  16256  14208 R   5.9   0.6   0:00.01 tracker-extract
+
+==================================================
+Monitoring completed: 2026-09-30 17:09:41
+==================================================
